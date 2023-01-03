@@ -14,7 +14,7 @@
     "@nuxtjs/dotenv": "^1.3.0",
     "bootstrap-vue": "^2.0.0-rc.20",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.3.4",
+    "nuxt": "^2.15.8",
     "vuex-persistedstate": "^2.5.4",
     "vuexfire": "^3.0.0-alpha.18",
     "webpack-bundle-analyzer": ">=3.3.2"
